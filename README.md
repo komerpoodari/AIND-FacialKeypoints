@@ -1,3 +1,4 @@
 # AIND-FacialKeypoints
-Completed Udacity AI nanodegree computer vision project
-This is based on the Udacity project located at https://github.com/udacity/AIND-CV-FacialKeypoints.git
+Completed Udacity AI nanodegree computer vision project.
+
+This project is based on the Udacity project starter code located at https://github.com/udacity/AIND-CV-FacialKeypoints.git
